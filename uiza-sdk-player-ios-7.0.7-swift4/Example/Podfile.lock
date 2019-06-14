@@ -1,0 +1,61 @@
+PODS:
+  - Alamofire (4.8.1)
+  - google-cast-sdk (4.4.1):
+    - google-cast-sdk/Core (= 4.4.1)
+    - Protobuf (~> 3.0)
+  - google-cast-sdk/Core (4.4.1):
+    - Protobuf (~> 3.0)
+  - GoogleAds-IMA-iOS-SDK (3.9.0)
+  - "LFLiveKit+ (2.6.2)"
+  - NKModalViewManager (3.5.2)
+  - NVActivityIndicatorView/AppExtension (4.6.1)
+  - Protobuf (3.7.0)
+  - SDWebImage (5.0.3):
+    - SDWebImage/Core (= 5.0.3)
+  - SDWebImage/Core (5.0.3)
+  - SwiftIcons (2.3.2)
+  - SwiftyJSON (4.2.0)
+  - UizaSDK (7.0.7-swift4):
+    - Alamofire (= 4.8.1)
+    - google-cast-sdk
+    - GoogleAds-IMA-iOS-SDK
+    - "LFLiveKit+"
+    - NKModalViewManager
+    - NVActivityIndicatorView/AppExtension (= 4.6.1)
+    - SDWebImage
+    - SwiftyJSON (= 4.2.0)
+
+DEPENDENCIES:
+  - SwiftIcons
+  - UizaSDK (= 7.0.7-swift4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - google-cast-sdk
+    - GoogleAds-IMA-iOS-SDK
+    - "LFLiveKit+"
+    - NKModalViewManager
+    - NVActivityIndicatorView
+    - Protobuf
+    - SDWebImage
+    - SwiftIcons
+    - SwiftyJSON
+    - UizaSDK
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  google-cast-sdk: b4583a1591a94b693be5e913e0ae84447fbd6b9d
+  GoogleAds-IMA-iOS-SDK: 8f57879738137b81a48ba792e42439e6bff5413b
+  "LFLiveKit+": 0da21f6b18c07a4160aa61f17fb436350c558eac
+  NKModalViewManager: 8171cd4fb9315193fc2d05f011f9a29c9ca95a0f
+  NVActivityIndicatorView: 4ca19fccc84595a78957336a086d00a49be6ce61
+  Protobuf: 7a877b7f3e5964e3fce995e2eb323dbc6831bb5a
+  SDWebImage: d4f87d7d36c8a4d9f9459dc282e0caa057fdf935
+  SwiftIcons: e652cfd2676441c462ad57b6e92977faf577e590
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  UizaSDK: 6f5775cd64a8ae69c412c06f3a48052df89caf97
+
+PODFILE CHECKSUM: 7ecdf4f24e81ef58769325b4313d9caac99801d8
+
+COCOAPODS: 1.6.1
