@@ -1,0 +1,82 @@
+PODS:
+  - AFDateHelper (4.2.7)
+  - Alamofire (4.8.2)
+  - FrameLayoutKit (3.4)
+  - google-cast-sdk (4.4.2):
+    - google-cast-sdk/Core (= 4.4.2)
+    - Protobuf (~> 3.0)
+  - google-cast-sdk/Core (4.4.2):
+    - Protobuf (~> 3.0)
+  - GoogleAds-IMA-iOS-SDK (3.9.0)
+  - LFLiveKit (2.6)
+  - NKButton (3.8.3):
+    - FrameLayoutKit
+    - NVActivityIndicatorView/AppExtension
+  - NKModalViewManager (3.5.2)
+  - NVActivityIndicatorView (4.7.0):
+    - NVActivityIndicatorView/Presenter (= 4.7.0)
+  - NVActivityIndicatorView/AppExtension (4.7.0)
+  - NVActivityIndicatorView/Presenter (4.7.0)
+  - Protobuf (3.8.0)
+  - SDWebImage (5.0.6):
+    - SDWebImage/Core (= 5.0.6)
+  - SDWebImage/Core (5.0.6)
+  - SwiftIcons (2.2.0)
+  - SwiftyJSON (5.0.0)
+  - TweenKit (0.6)
+  - UizaSDK (6.6.4):
+    - AFDateHelper
+    - Alamofire
+    - FrameLayoutKit
+    - google-cast-sdk
+    - GoogleAds-IMA-iOS-SDK
+    - LFLiveKit
+    - NKButton
+    - NKModalViewManager
+    - NVActivityIndicatorView
+    - SDWebImage
+    - SwiftyJSON
+    - TweenKit
+
+DEPENDENCIES:
+  - SwiftIcons
+  - UizaSDK (= 6.6.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFDateHelper
+    - Alamofire
+    - FrameLayoutKit
+    - google-cast-sdk
+    - GoogleAds-IMA-iOS-SDK
+    - LFLiveKit
+    - NKButton
+    - NKModalViewManager
+    - NVActivityIndicatorView
+    - Protobuf
+    - SDWebImage
+    - SwiftIcons
+    - SwiftyJSON
+    - TweenKit
+    - UizaSDK
+
+SPEC CHECKSUMS:
+  AFDateHelper: 4ad66fb19503041fbba8a3018cb7ef9c71b2ff88
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  FrameLayoutKit: ec991b3e454e98078fb050cf172cd15cfff4bbe8
+  google-cast-sdk: ac9ea41d61026406869bf696b2e7f87971a4cf1f
+  GoogleAds-IMA-iOS-SDK: 8f57879738137b81a48ba792e42439e6bff5413b
+  LFLiveKit: 2219563721f8aa0f188effc3395a06e2d53b23f2
+  NKButton: 419969081ffcf3347ad5436d6412a10ce69d777c
+  NKModalViewManager: 8171cd4fb9315193fc2d05f011f9a29c9ca95a0f
+  NVActivityIndicatorView: b19ddab2576f805cbe0fb2306cba3476e09a1dea
+  Protobuf: 3f617b9a6e73605565086864c9bc26b2bf2dd5a3
+  SDWebImage: 920f1a2ff1ca8296ad34f6e0510a1ef1d70ac965
+  SwiftIcons: e7eb9bf2b475d6bdd8b37c5bdedc6d120aab0829
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  TweenKit: 0abfef083a278b59ed784b5ea319a400ff3e14be
+  UizaSDK: 0f787549f9ecccd726f1a822176fe39e75de4044
+
+PODFILE CHECKSUM: e58934cea714c3e511218db6b3ba770bbe65e3b4
+
+COCOAPODS: 1.7.2
