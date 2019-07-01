@@ -9,54 +9,6 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "UizaSDK/Player/UZPlayer.swift"
-            timestampString = "583214064.3884521"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1121"
-            endingLineNumber = "1121"
-            landmarkName = "showMediaOptionSelector()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "UizaSDKTest.UZPlayer.showMediaOptionSelector() -&gt; ()"
-                  moduleName = "UizaSDKTest"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/phan.huynh.thien.an/Documents/UizaSDK_Developer/UizaSDK/Player/UZPlayer.swift"
-                  timestampString = "583214069.551811"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "1121"
-                  endingLineNumber = "1121"
-                  offsetFromSymbolStart = "388">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;__C.AVMediaSelectionOption&gt;, Foundation.IndexPath) -&gt; () in UizaSDKTest.UZPlayer.showMediaOptionSelector() -&gt; ()"
-                  moduleName = "UizaSDKTest"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/phan.huynh.thien.an/Documents/UizaSDK_Developer/UizaSDK/Player/UZPlayer.swift"
-                  timestampString = "583214069.5535851"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "1121"
-                  endingLineNumber = "1121"
-                  offsetFromSymbolStart = "116">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
             filePath = "UizaSDK/SDK/sources/ManifestBuilder.swift"
             timestampString = "582798014.926628"
             startingColumnNumber = "9223372036854775807"
